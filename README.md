@@ -5,8 +5,8 @@ GitHub version control practice workspace
 - [x] Jongmin Choi \* 2
 - [ ] Aleksei Alvarez
 - [ ] Jeremy Azar
-- [X] William Cerritos
+- [X] William Cerritos //?
 - [ ] Kevin Garcia
 - [ ] Bhavya Raturi
 - [ ] Andy Rodriguez
-- [ ] Aisyah Vizcarra
+- [x] Aisyah Vizcarra
